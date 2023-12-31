@@ -5,8 +5,9 @@
 ## RSS
 ### [科技爱好者周刊](https://github.com/ruanyf/weekly/) [CoolShell](https://coolshell.org/)
 
-## Blog
+## Blog && SEO
 ### [顾小北](https://www.guxiaobei.com/) [Backlinko](https://backlinko.com/) [SEO每天一贴](https://www.seozac.com/)
+### [GPT4_SEO](https://www.reddit.com/r/GPT4_SEO_Content/) [TechSEO](https://www.reddit.com/r/TechSEO/)
 
 ## Newsletter
 ### [Digitaltrends](https://digitaltrends.com) [TechRadar](https://www.techradar.com/) [Engadget](https://www.engadget.com/) [10beasts](https://10beasts.com/) [SlashGear](https://www.slashgear.com/) [Droid Life](https://www.droid-life.com/) [9to5Mac](https://9to5mac.com/) [TechHive](https://www.techhive.com/) 
@@ -16,6 +17,8 @@
 
 ## Tool
 ### [Keyword Difficulty](https://ahrefs.com/keyword-difficulty) [BuiltWith](https://builtwith.com/) [SimilarWeb](https://www.similarweb.com/) [Wappalyzer](https://www.wappalyzer.com/) [AMZ123](https://www.amz123.com/) [AMZ520](https://amz520.com/)
+
+### youtube [Youtube Dubbing](https://www.youtube-dubbing.com/)(🚀一个帮你把外语视频变成中文视频的神奇插件 )
 
 ## BBS && Forum
 ### [AdvertCN](https://www.advertcn.com/) [BHW](https://www.blackhatworld.com/) [Warrior Forum](https://www.warriorforum.com/) 
@@ -32,3 +35,12 @@
 
 ## Ebook
 ### [安娜的档案](https://zh.annas-archive.org/) [Library Genesis](https://libgen.is/) [Gutenberg](https://gutenberg.org/) 
+
+## AIGC
+### https://gpt4all.io/index.html
+### https://aigc.ioclab.com/sd-showcase/brightness-controlnet.html
+### https://www.reddit.com/r/midjourney/
+### https://www.reddit.com/r/ChatGPT/comments/158jnbs/gpt_weekly_24th_july_edition_llama_2_customer/
+### https://promptengineer.medium.com/writing-prompts-that-work-the-secret-to-better-chatgpt-performance-b86b1a234d14
+### https://promptbase.com/
+### https://scale.com/
