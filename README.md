@@ -19,6 +19,7 @@
 ### [Keyword Difficulty](https://ahrefs.com/keyword-difficulty) [BuiltWith](https://builtwith.com/) [SimilarWeb](https://www.similarweb.com/) [Wappalyzer](https://www.wappalyzer.com/) 
 ### Speed [Pingdom](https://tools.pingdom.com/)
 ### [AMZ123](https://www.amz123.com/) [AMZ520](https://amz520.com/)　
+### [顶级域名](https://www.iana.org/domains/root/db) 
 
 ### youtube [Youtube Dubbing](https://www.youtube-dubbing.com/)(🚀一个帮你把外语视频变成中文视频的神奇插件 )
 ### 翻译 [DeepL](https://www.deepl.com/translator#en/zh/how)
