@@ -28,8 +28,9 @@
 ### [AdvertCN](https://www.advertcn.com/) [BHW](https://www.blackhatworld.com/) [Warrior Forum](https://www.warriorforum.com/) 
 
 ## GPTS
-### [GPTHunter](https://www.gptshunter.com) [GPTs精选](https://topgpt.us/) [GPTs Works](https://gpts.works/) [GPTs Today](https://gptstoday.com/) 
+### [GPTHunter](https://www.gptshunter.com) [GPTs精选](https://topgpt.us/) [GPTs Works](https://gpts.works/) [GPTs Today](https://gptstoday.com/) [GPTSeek](https://www.gptseek.com/)
 ### Free Use [ChatGPT Demo Free](https://chat.chatgptdemo.net/) [llama2](https://llama2.ai/)
+### [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/docs/vercel-cn.md#%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE)
 
 ## Geek
 ### [Slashdot](https://slashdot.org/) [Solidot](https://solidot.org/) 
@@ -50,9 +51,12 @@
 ### https://scale.com/
 
 ## idears
+### [Gumroad](https://gumroad.com/discover)
 ### [how-to-validate-your-idears-cheap-way](https://www.indiehackers.com/post/ideas-are-cheap-heres-how-to-validate-them-80280c4c9c)
 ### [Apple watch game](https://twitter.com/mrhesselbom/status/1719284917673046100?t=vqbviDPx0eMnz4awkmZUvA&s=19)
 
 ## other
 ### [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
 ### [goal-to-success](https://www.indiehackers.com/post/how-to-use-goal-setting-to-shape-your-success-in-2024-16b5b8d135)
+### [Vercel快速部署前端项目](https://zhuanlan.zhihu.com/p/578452272?utm_id=0)
+
