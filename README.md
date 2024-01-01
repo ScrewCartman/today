@@ -28,7 +28,7 @@
 ### [AdvertCN](https://www.advertcn.com/) [BHW](https://www.blackhatworld.com/) [Warrior Forum](https://www.warriorforum.com/) 
 
 ## GPTS
-### [GPTHunter](https://www.gptshunter.com) [GPTs精选](https://topgpt.us/) [GPTs Works](https://gpts.works/)
+### [GPTHunter](https://www.gptshunter.com) [GPTs精选](https://topgpt.us/) [GPTs Works](https://gpts.works/) [GPTs Today](https://gptstoday.com/) 
 ### Free Use [ChatGPT Demo Free](https://chat.chatgptdemo.net/) [llama2](https://llama2.ai/)
 
 ## Geek
@@ -55,4 +55,4 @@
 
 ## other
 ### [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
-
+### [goal-to-success](https://www.indiehackers.com/post/how-to-use-goal-setting-to-shape-your-success-in-2024-16b5b8d135)
