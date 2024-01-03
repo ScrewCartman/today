@@ -1,6 +1,9 @@
 # today
 ## Tech
-### [@Hacker News](https://news.ycombinator.com/) [@TechCrunch](https://techcrunch.com/) [@ArsTechnica](https://arstechnica.com) [@TheVerge](https://www.theverge.com) [@Wired](https://www.wired.com) [@TNW](https://thenextweb.com/) [@Gizmodo](https://gizmodo.com/) [@BleepingComputer](https://www.bleepingcomputer.com/) [@MashAble](https://mashable.com) [@VentureBeat](https://venturebeat.com) [@The Information](https://www.theinformation.com/) [@Term Sheet](https://fortune.com/tag/term-sheet/) [@BusinessInsider](https://www.businessinsider.com/) [MUO](https://www.makeuseof.com/)
+### [@Hacker News](https://news.ycombinator.com/) 
+### [@Indiehackers](https://www.indiehackers.com/)
+### [@TheVerge](https://www.theverge.com)
+### [@TechCrunch](https://techcrunch.com/) [@ArsTechnica](https://arstechnica.com)  [@Wired](https://www.wired.com) [@TNW](https://thenextweb.com/) [@Gizmodo](https://gizmodo.com/) [@BleepingComputer](https://www.bleepingcomputer.com/) [@MashAble](https://mashable.com) [@VentureBeat](https://venturebeat.com) [@The Information](https://www.theinformation.com/) [@Term Sheet](https://fortune.com/tag/term-sheet/) [@BusinessInsider](https://www.businessinsider.com/) [MUO](https://www.makeuseof.com/)
 
 ## RSS
 ### [科技爱好者周刊](https://github.com/ruanyf/weekly/) [CoolShell](https://coolshell.org/)
@@ -16,20 +19,30 @@
 ### Windows [Windows Report](https://windowsreport.com)
 
 ## Tool
+### [Cards](https://www.giftcards.com/)
 ### [Keyword Difficulty](https://ahrefs.com/keyword-difficulty) [BuiltWith](https://builtwith.com/) [SimilarWeb](https://www.similarweb.com/) [Wappalyzer](https://www.wappalyzer.com/) 
+### Design [Figma](https://www.figma.com/)
+### website [Vercel](https://chat.vercel.ai/) [WP](https://wordpress.org/)
 ### Speed [Pingdom](https://tools.pingdom.com/)
 ### [AMZ123](https://www.amz123.com/) [AMZ520](https://amz520.com/)　
 ### [顶级域名](https://www.iana.org/domains/root/db) 
 
+## Design 
+### 3D [FuryPage](https://fury-page.vercel.app/)
+
 ### youtube [Youtube Dubbing](https://www.youtube-dubbing.com/)(🚀一个帮你把外语视频变成中文视频的神奇插件 )
 ### 翻译 [DeepL](https://www.deepl.com/translator#en/zh/how)
 
+## [Top100 YouTube网红排行榜](https://cn.noxinfluencer.com/youtube-channel-rank/top-100-others-all-youtuber-sorted-by-subs-weekly)
+
 ## BBS && Forum
 ### [AdvertCN](https://www.advertcn.com/) [BHW](https://www.blackhatworld.com/) [Warrior Forum](https://www.warriorforum.com/) 
+### [Reddit-Entrepreneur](https://www.reddit.com/Entrepreneur/) [Reddit-Saas](https://www.reddit.com/Entrepreneur/)
 
 ## GPTS
 ### [GPTHunter](https://www.gptshunter.com) [GPTs精选](https://topgpt.us/) [GPTs Works](https://gpts.works/) [GPTs Today](https://gptstoday.com/) [GPTSeek](https://www.gptseek.com/)
-### Free Use [ChatGPT Demo Free](https://chat.chatgptdemo.net/) [llama2](https://llama2.ai/)
+### Free Use [ChatGPT Demo Free](https://chat.chatgptdemo.net/) [llama2](https://llama2.ai/) [Anakin](https://anakin.ai/) [Next.js AI Chatbot](https://chat.vercel.ai/) 
+### Gemini Pro [Chat1](https://gemini-pro-chat-pi-ecru.vercel.app/) [Chat2](https://geminiprochat.com/)
 ### [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/docs/vercel-cn.md#%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE)
 
 ## Geek
@@ -51,9 +64,28 @@
 ### https://scale.com/
 
 ## idears
+### Extensions for [Edge](https://microsoftedge.microsoft.com/addons) [Chrome](https://chromewebstore.google.com/category/extensions) [Firefox](https://addons.mozilla.org/en-US/firefox/)
 ### [Gumroad](https://gumroad.com/discover)
+### [Acquire](https://acquire.com/)
 ### [how-to-validate-your-idears-cheap-way](https://www.indiehackers.com/post/ideas-are-cheap-heres-how-to-validate-them-80280c4c9c)
 ### [Apple watch game](https://twitter.com/mrhesselbom/status/1719284917673046100?t=vqbviDPx0eMnz4awkmZUvA&s=19)
+### [Media Buyer](https://sourceforge.net/software/ad-networks/) 
+
+## Insights
+### [CB Insights](https://www.cbinsights.com/)  [CrunchBase](https://www.crunchbase.com/)
+
+## list
+### [ChatChit](https://chatchit.ai/) [Karmbot](https://karmabot.chat/) Make chatgpt work with whatsapp
+### [Her.ai](https://www.gate.io/zh/startup/1083)
+### [Anakin](https://anakin.ai/) Bring AI wo everyone's work
+### [UI](https://ui.aceternity.com/) Make your websites look better
+### [CloudHQ](https://www.cloudhq.net/g_suite) Make gmail better
+### [Stackoom](https://stackoom.com/)类stackoverflow AI翻译
+### [Motionbox](https://motionbox.io/) Make video better
+### [pqina](https://pqina.nl/)
+### [face2emoji](https://magickimg.com/face2emoji/)
+### [podwise](https://podwise.xyz/) listening podcast with ai
+### [Dragganaitool](https://dragganaitool.com/)wp+content+ads
 
 ## other
 ### [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
