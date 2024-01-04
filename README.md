@@ -2,6 +2,7 @@
 ## Tech
 ### [@Hacker News](https://news.ycombinator.com/) 
 ### [@Indiehackers](https://www.indiehackers.com/)
+### [@ProductHunt](https://www.producthunt.com/)
 ### [@TheVerge](https://www.theverge.com)
 ### [@TechCrunch](https://techcrunch.com/) [@ArsTechnica](https://arstechnica.com)  [@Wired](https://www.wired.com) [@TNW](https://thenextweb.com/) [@Gizmodo](https://gizmodo.com/) [@BleepingComputer](https://www.bleepingcomputer.com/) [@MashAble](https://mashable.com) [@VentureBeat](https://venturebeat.com) [@The Information](https://www.theinformation.com/) [@Term Sheet](https://fortune.com/tag/term-sheet/) [@BusinessInsider](https://www.businessinsider.com/) [MUO](https://www.makeuseof.com/)
 
@@ -23,9 +24,10 @@
 ### [Keyword Difficulty](https://ahrefs.com/keyword-difficulty) [BuiltWith](https://builtwith.com/) [SimilarWeb](https://www.similarweb.com/) [Wappalyzer](https://www.wappalyzer.com/) 
 ### Design [Figma](https://www.figma.com/)
 ### website [Vercel](https://chat.vercel.ai/) [WP](https://wordpress.org/)
-### Speed [Pingdom](https://tools.pingdom.com/)
+### Speed [Pingdom](https://tools.pingdom.com/) [GTmetrix](https://gtmetrix.com/)
 ### [AMZ123](https://www.amz123.com/) [AMZ520](https://amz520.com/)　
-### [顶级域名](https://www.iana.org/domains/root/db) 
+### [顶级域名](https://www.iana.org/domains/root/db)  [全球主机监控](https://stock.hostmonit.com/)
+### [1000tools](https://1000.tools/)
 
 ## Design 
 ### 3D [FuryPage](https://fury-page.vercel.app/)
@@ -44,6 +46,9 @@
 ### Free Use [ChatGPT Demo Free](https://chat.chatgptdemo.net/) [llama2](https://llama2.ai/) [Anakin](https://anakin.ai/) [Next.js AI Chatbot](https://chat.vercel.ai/) 
 ### Gemini Pro [Chat1](https://gemini-pro-chat-pi-ecru.vercel.app/) [Chat2](https://geminiprochat.com/)
 ### [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/docs/vercel-cn.md#%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE)
+
+## ChatGPT Plugin
+### [AIPRM](https://www.aiprm.com/)
 
 ## Geek
 ### [Slashdot](https://slashdot.org/) [Solidot](https://solidot.org/) 
@@ -75,6 +80,7 @@
 ### [CB Insights](https://www.cbinsights.com/)  [CrunchBase](https://www.crunchbase.com/)
 
 ## list
+### [remoteok](https://remoteok.com)
 ### [ChatChit](https://chatchit.ai/) [Karmbot](https://karmabot.chat/) Make chatgpt work with whatsapp
 ### [Her.ai](https://www.gate.io/zh/startup/1083)
 ### [Anakin](https://anakin.ai/) Bring AI wo everyone's work
@@ -86,9 +92,10 @@
 ### [face2emoji](https://magickimg.com/face2emoji/)
 ### [podwise](https://podwise.xyz/) listening podcast with ai
 ### [Dragganaitool](https://dragganaitool.com/)wp+content+ads
+### [万兴科技](https://www.wondershare.cn/)
 
 ## other
 ### [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
 ### [goal-to-success](https://www.indiehackers.com/post/how-to-use-goal-setting-to-shape-your-success-in-2024-16b5b8d135)
-### [Vercel快速部署前端项目](https://zhuanlan.zhihu.com/p/578452272?utm_id=0)
-
+### [Vercel快速部署前端项目](https://zhuanlan.zhihu.com/p/578452272?utm_id=0) [教你如何使用vercel服务免费部署前端项目和serverless api](https://zhuanlan.zhihu.com/p/453269472)
+### [StoreLibrary](https://www.storelibrary.com/)
