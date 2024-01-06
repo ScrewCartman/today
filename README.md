@@ -49,6 +49,11 @@
 ### Website
 - [Vercel](https://chat.vercel.ai/) 
 - [WP](https://wordpress.org/)
+
+### 统计工具
+- [Google Analytics]()
+- [Plausible](https://plausible.io/)
+
 ### Speed
 - [Pingdom](https://tools.pingdom.com/)
 - [GTmetrix](https://gtmetrix.com/)
@@ -99,6 +104,7 @@
 ### [AIPRM](https://www.aiprm.com/)
 
 ## Geek
+
 ### [Slashdot](https://slashdot.org/) [Solidot](https://solidot.org/) 
 
 ## Game
@@ -117,10 +123,13 @@
 - https://promptengineer.medium.com/writing-prompts-that-work-the-secret-to-better-chatgpt-performance-b86b1a234d14
 - https://promptbase.com/
 - https://scale.com/
-- [Monica](https://monica.im/) [Sider](https://sider.ai/) business ai tool
+- [Monica](https://monica.im/)
+- [Sider](https://sider.ai/)
+- [TurboArt](https://turbo.art/)
+business ai tool
 - [Clipdrop APIS](https://clipdrop.co/apis)
 
-## idears
+## ideas
 ### Extensions for [Edge](https://microsoftedge.microsoft.com/addons) [Chrome](https://chromewebstore.google.com/category/extensions) [Firefox](https://addons.mozilla.org/en-US/firefox/)
 ### [Gumroad](https://gumroad.com/discover)
 ### [Acquire](https://acquire.com/)
@@ -150,9 +159,19 @@
 - [123apps](https://123apps.com/) 一个域名优化一个关键字最好，这个网站注册了很多域名
 - [AIinsights](https://www.aiinsights.today/trend)
 - [DisneyAiPoster](https://disneyaiposter.com/)Turn your pet or photo into a Disney Pixar character
+- [MorseDecorder](https://morsedecoder.com/)
+- [Botvip](https://botvip.cn/)
+- [ai-bot](https://ai-bot.cn/)
 
 ## other
 - [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
 - [goal-to-success](https://www.indiehackers.com/post/how-to-use-goal-setting-to-shape-your-success-in-2024-16b5b8d135)
-- [Vercel快速部署前端项目](https://zhuanlan.zhihu.com/p/578452272?utm_id=0) [教你如何使用vercel服务免费部署前端项目和serverless api](https://zhuanlan.zhihu.com/p/453269472)
+- [Vercel快速部署前端项目](https://zhuanlan.zhihu.com/p/578452272?utm_id=0) https://markdown.juemuren4449.com/
+- [教你如何使用vercel服务免费部署前端项目和serverless api](https://zhuanlan.zhihu.com/p/453269472)
 - [StoreLibrary](https://www.storelibrary.com/)
+- [nodlist](https://nomadlist.com/) 数字游民
+
+## People
+### 即客
+- [哥飞](https://m.okjike.com/users/a2d6acc1-626f-4d15-a22a-849e88a4c9f0)
+- [0编程基础搭建属于自己的 AI 产品](https://m.okjike.com/originalPosts/63bedf6b5b351a0c1425c368)
