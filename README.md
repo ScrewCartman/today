@@ -104,7 +104,6 @@
 ### [AIPRM](https://www.aiprm.com/)
 
 ## Geek
-
 ### [Slashdot](https://slashdot.org/) [Solidot](https://solidot.org/) 
 
 ## Game
@@ -162,6 +161,7 @@ business ai tool
 - [MorseDecorder](https://morsedecoder.com/)
 - [Botvip](https://botvip.cn/)
 - [ai-bot](https://ai-bot.cn/)
+- [pocketbase](https://pocketbase.io/)
 
 ## other
 - [树下随想](https://mp.weixin.qq.com/s/4_3UbgnxLgECzZzrc2veog) 
@@ -170,6 +170,7 @@ business ai tool
 - [教你如何使用vercel服务免费部署前端项目和serverless api](https://zhuanlan.zhihu.com/p/453269472)
 - [StoreLibrary](https://www.storelibrary.com/)
 - [nodlist](https://nomadlist.com/) 数字游民
+- [Locofy](https://locofy.ai/) Locofy.ai turns your designs into production-ready frontend code for mobile apps and web. 
 
 ## People
 ### 即客
