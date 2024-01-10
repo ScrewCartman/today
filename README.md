@@ -127,8 +127,15 @@
 - [TurboArt](https://turbo.art/)
 business ai tool
 - [Clipdrop APIS](https://clipdrop.co/apis)
+### Set
+- [Toolify](https://www.toolify.ai/)
+- [GPT3demo](https://gpt3demo.com/)
 
 ## ideas
+### How to get idea from existing products reviews?
+- [Trustpilot](https://www.trustpilot.com/categories)
+- [G2](https://www.g2.com/)
+- [50 ideas of Golf](https://africanamericangolfersdigest.com/50-great-golf-business-ideas-opportunities-to-boost-your-earnings/)
 ### Extensions for [Edge](https://microsoftedge.microsoft.com/addons) [Chrome](https://chromewebstore.google.com/category/extensions) [Firefox](https://addons.mozilla.org/en-US/firefox/)
 ### [Gumroad](https://gumroad.com/discover)
 ### [Acquire](https://acquire.com/)
