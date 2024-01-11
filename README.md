@@ -3,6 +3,7 @@
 - [Hacker News](https://news.ycombinator.com/) 
 - [Indiehackers](https://www.indiehackers.com/)
 - [ProductHunt](https://www.producthunt.com/)
+- [V2ex](https://v2ex.com/)
 - [TheVerge](https://www.theverge.com)
 - [MashAble](https://mashable.com)
 - [LifeHacker](https://lifehacker.com/)
@@ -89,6 +90,8 @@
 - [GPTs Today](https://gptstoday.com/)
 - [GPTSeek](https://www.gptseek.com/)
 - [GPTs根据推文热度排序](https://gpts.hallid.ai/)
+- [GPTs top 100深度体验报告](https://qgvuli6nbc.feishu.cn/base/SFVBbTbpraOy74sslfLcOuqYnBg?table=tbl9Ak4Oie5TCw0c&view=vew3M9kx11)
+
 
 ### Free Use
 - [ChatGPT Demo Free](https://chat.chatgptdemo.net/)
@@ -136,6 +139,8 @@ business ai tool
 - [Trustpilot](https://www.trustpilot.com/categories)
 - [G2](https://www.g2.com/)
 - [50 ideas of Golf](https://africanamericangolfersdigest.com/50-great-golf-business-ideas-opportunities-to-boost-your-earnings/)
+- [6 winning strategies that will double conversions on your Landing Page](https://en.rattibha.com/thread/1539987900204556288)
+
 ### Extensions for [Edge](https://microsoftedge.microsoft.com/addons) [Chrome](https://chromewebstore.google.com/category/extensions) [Firefox](https://addons.mozilla.org/en-US/firefox/)
 ### [Gumroad](https://gumroad.com/discover)
 ### [Acquire](https://acquire.com/)
