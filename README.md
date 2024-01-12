@@ -13,6 +13,7 @@
 
 ## RSS
 - [科技爱好者周刊](https://github.com/ruanyf/weekly/) 
+- [独立开发者变现周刊](https://ezindie.com/)
 - [CoolShell](https://coolshell.org/)
 
 ## Blog && SEO
