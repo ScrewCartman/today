@@ -1,6 +1,7 @@
 # today
 ## Tech
-- [Hacker News](https://news.ycombinator.com/) 
+- [Hacker News](https://news.ycombinator.com/)
+--[Companies](https://www.ycombinator.com/companies)
 - [Indiehackers](https://www.indiehackers.com/)
 - [ProductHunt](https://www.producthunt.com/)
 - [V2ex](https://v2ex.com/)
