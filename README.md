@@ -1,7 +1,8 @@
 # today
 ## Tech
-- [Hacker News](https://news.ycombinator.com/)
---[Companies](https://www.ycombinator.com/companies)
+- [Hacker News](https://news.ycombinator.com/) 
+-- [Launches](https://www.ycombinator.com/launches)
+-- [Companines](https://www.ycombinator.com/companies)
 - [Indiehackers](https://www.indiehackers.com/)
 - [ProductHunt](https://www.producthunt.com/)
 - [V2ex](https://v2ex.com/)
@@ -123,7 +124,6 @@
 - https://gpt4all.io/index.html
 - https://aigc.ioclab.com/sd-showcase/brightness-controlnet.html
 - https://www.reddit.com/r/midjourney/
-- [AnyText](https://github.com/tyxsspa/AnyText)
 - https://www.reddit.com/r/ChatGPT/comments/158jnbs/gpt_weekly_24th_july_edition_llama_2_customer/
 - https://promptengineer.medium.com/writing-prompts-that-work-the-secret-to-better-chatgpt-performance-b86b1a234d14
 - https://promptbase.com/
