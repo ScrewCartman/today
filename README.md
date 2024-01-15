@@ -105,6 +105,8 @@
 - [Chat1](https://gemini-pro-chat-pi-ecru.vercel.app/)
 - [Chat2](https://geminiprochat.com/)
 ### [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/docs/vercel-cn.md#%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE)
+### Chinese
+- [Anytext](https://github.com/tyxsspa/AnyText/)
 
 ## ChatGPT Plugin
 ### [AIPRM](https://www.aiprm.com/)
