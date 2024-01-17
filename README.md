@@ -3,6 +3,7 @@
 - [Hacker News](https://news.ycombinator.com/) 
 -- [Launches](https://www.ycombinator.com/launches)
 -- [Companines](https://www.ycombinator.com/companies)
+-- [Library](https://www.ycombinator.com/library)
 - [Indiehackers](https://www.indiehackers.com/)
 - [ProductHunt](https://www.producthunt.com/)
 - [V2ex](https://v2ex.com/)
@@ -105,8 +106,6 @@
 - [Chat1](https://gemini-pro-chat-pi-ecru.vercel.app/)
 - [Chat2](https://geminiprochat.com/)
 ### [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/blob/main/docs/vercel-cn.md#%E5%A6%82%E4%BD%95%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE)
-### Chinese
-- [Anytext](https://github.com/tyxsspa/AnyText/)
 
 ## ChatGPT Plugin
 ### [AIPRM](https://www.aiprm.com/)
@@ -143,7 +142,6 @@ business ai tool
 ### How to get idea from existing products reviews?
 - [Trustpilot](https://www.trustpilot.com/categories)
 - [G2](https://www.g2.com/)
-- [Capterra](https://www.capterra.ca/directory)
 - [50 ideas of Golf](https://africanamericangolfersdigest.com/50-great-golf-business-ideas-opportunities-to-boost-your-earnings/)
 - [6 winning strategies that will double conversions on your Landing Page](https://en.rattibha.com/thread/1539987900204556288)
 
