@@ -132,6 +132,7 @@
 - [Monica](https://monica.im/)
 - [Sider](https://sider.ai/)
 - [TurboArt](https://turbo.art/)
+- [OpenDalle](https://huggingface.co/dataautogpt3/OpenDalle/tree/main)
 business ai tool
 - [Clipdrop APIS](https://clipdrop.co/apis)
 ### Set
