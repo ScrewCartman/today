@@ -135,6 +135,8 @@
 - [OpenDalle](https://huggingface.co/dataautogpt3/OpenDalle/tree/main)
 business ai tool
 - [Clipdrop APIS](https://clipdrop.co/apis)
+### Civitai
+- turbovisionxlSuperFastXL(https://civitai.com/models/215418/turbovisionxl-super-fast-xl-based-on-new-sdxl-turbo-3-5-step-quality-output-at-high-resolutions)
 ### Set
 - [Toolify](https://www.toolify.ai/)
 - [GPT3demo](https://gpt3demo.com/)
