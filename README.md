@@ -137,6 +137,8 @@ business ai tool
 - [Clipdrop APIS](https://clipdrop.co/apis)
 ### Civitai
 - turbovisionxlSuperFastXL(https://civitai.com/models/215418/turbovisionxl-super-fast-xl-based-on-new-sdxl-turbo-3-5-step-quality-output-at-high-resolutions)
+- Realistic XL(https://civitai.com/models/176449/9527-detail-realistic-xl?modelVersionId=260927)
+- DreamShaper XL(https://civitai.com/models/112902/dreamshaper-xl?modelVersionId=251662)
 ### Set
 - [Toolify](https://www.toolify.ai/)
 - [GPT3demo](https://gpt3demo.com/)
