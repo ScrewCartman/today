@@ -139,14 +139,13 @@ business ai tool
 - turbovisionxlSuperFastXL(https://civitai.com/models/215418/turbovisionxl-super-fast-xl-based-on-new-sdxl-turbo-3-5-step-quality-output-at-high-resolutions)
 - Realistic XL(https://civitai.com/models/176449/9527-detail-realistic-xl?modelVersionId=260927)
 - DreamShaper XL(https://civitai.com/models/112902/dreamshaper-xl?modelVersionId=251662)
-### Set
-- [Toolify](https://www.toolify.ai/)
-- [GPT3demo](https://gpt3demo.com/)
+### 
 
 ## ideas
-### How to get idea from existing products reviews?
-- [Trustpilot](https://www.trustpilot.com/categories)
 - [G2](https://www.g2.com/)
+- [Capterra](https://www.capterra.com)
+- [SoftwareAdvice](https://www.softwareadvice.com/categories/)
+
 - [50 ideas of Golf](https://africanamericangolfersdigest.com/50-great-golf-business-ideas-opportunities-to-boost-your-earnings/)
 - [6 winning strategies that will double conversions on your Landing Page](https://en.rattibha.com/thread/1539987900204556288)
 
